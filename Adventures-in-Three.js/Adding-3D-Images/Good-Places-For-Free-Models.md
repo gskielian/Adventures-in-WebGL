@@ -4,7 +4,7 @@
 Below are a few sites I use a lot for getting pre-made 3D objects for my websites:
 
 
-| Site | Link  | Notes|
+| Site | Link  | What it has |
 | :--- | :---: | ---: |
 |3D Warehouse | http://sketchup.google.com/3dwarehouse/ | Everything |
 | Nasa's 3D Images | http://www.nasa.gov/multimedia/3d_resources/ | Space Themed Models | 
