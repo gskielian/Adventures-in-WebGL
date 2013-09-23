@@ -1,7 +1,7 @@
 3D Models
 ========
 
-Below are a few sites I use a lot for getting pre-made 3D objects for my websites:
+Below are a few sites I use a lot for getting free, pre-made 3D objects for my websites:
 
 
 | Site | Link  | What it has |
