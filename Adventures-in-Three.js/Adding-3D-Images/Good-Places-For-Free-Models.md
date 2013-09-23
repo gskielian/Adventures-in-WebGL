@@ -2,7 +2,7 @@
 ========
 
 | Site | Link  | Notes|
-| <--- | <---> | ---> |
+| :--- | :---: | ---: |
 |3D Warehouse | http://sketchup.google.com/3dwarehouse/ | Everything |
 | Nasa's 3D Images | http://www.nasa.gov/multimedia/3d_resources/ | Space Themed Models | 
 | 3Drt | http://3drt.com/store/free-downloads/ | Sci-Fi Models | 
